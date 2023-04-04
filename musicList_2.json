@@ -1,0 +1,75 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+				  "Artist": {"S": "Pixote"},
+				  "SongTitle": {"S": "Amor e Fe"},
+				  "AlbumTitle": {"S": "Pixote House"},
+				  "SongYear": {"S": "2022"}
+				}
+            }
+        },{
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pixote"},
+				  "SongTitle": {"S": "Encontro de Erros"},
+				  "AlbumTitle": {"S": "Drive In"},
+				  "SongYear": {"S": "2021"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pixote"},
+				  "SongTitle": {"S": "Soletra"},
+				  "AlbumTitle": {"S": "Pixote 20 Anos Sem Moderacao"},
+				  "SongYear": {"S": "2021"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pixote"},
+				  "SongTitle": {"S": "Encontro de Erros"},
+				  "AlbumTitle": {"S": "Drive In"},
+				  "SongYear": {"S": "2021"}-
+                }
+            }
+        },
+		{
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Rei da Cacimbinha"},
+				  "SongTitle": {"S": "Apaixonadin"},
+				  "AlbumTitle": {"S": "Apaixonadin"},
+				  "SongYear": {"S": "2021"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Rei da Cacimbinha"},
+				  "SongTitle": {"S": "Lambizame"},
+				  "AlbumTitle": {"S": "Lambizame"},
+				  "SongYear": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pixote House"},
+				  "SongTitle": {"S": "Amor e Fe"},
+				  "AlbumTitle": {"S": "Pixote House"},
+				  "SongYear": {"S": "20202"},
+				  "Genre": {"S": "Musica Brasileira"},
+				  "Duration" : {"N": "147"}
+                }
+            }
+        }
+      ]
+}

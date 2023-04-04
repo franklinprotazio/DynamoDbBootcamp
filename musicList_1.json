@@ -1,0 +1,36 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+				  "Artist": {"S": "Melim"},
+				  "SongTitle": {"S": "Mapa"},
+				  "AlbumTitle": {"S": "Quintal"},
+				  "SongYear": {"S": "2023"},
+				  "Genre": {"S": "MPB"}
+				}
+            }
+        },{
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Melim"},
+				  "SongTitle": {"S": "Borboleta"},
+				  "AlbumTitle": {"S": "Quintal"},
+				  "SongYear": {"S": "2023"},
+				  "Genre": {"S": "MPB"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Melim"},
+				  "SongTitle": {"S": "Nova Bad"},
+				  "AlbumTitle": {"S": "Quintal"},
+				  "SongYear": {"S": "2023"},
+				  "Genre": {"S": "MPB"}
+                }
+            }
+        }
+      ]
+}
